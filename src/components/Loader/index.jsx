@@ -1,7 +1,6 @@
-import './styles.css';
 export const Loader = () => {
   return (
-    <div className="lds-facebook">
+    <div className="lds-facebook" title="loader">
       <div></div>
       <div></div>
       <div></div>
